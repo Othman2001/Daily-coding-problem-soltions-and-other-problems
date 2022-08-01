@@ -20,5 +20,3 @@ const getTheProductOfNumber = (numbers = [1, 2]) => {
 };
 
 console.log(getTheProductOfNumber([1, 2, 3, 4, 5]));
-
-// This problem was asked by Google.
